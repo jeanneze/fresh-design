@@ -2,14 +2,14 @@
  * @Author: zhaojing834 zhaojing834@jd.com
  * @Date: 2023-06-06 14:57:28
  * @LastEditors: zhaojing834
- * @LastEditTime: 2023-06-06 17:30:53
+ * @LastEditTime: 2023-06-21 18:37:30
  * @FilePath: /fresh-design/src/index.tsx
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Button from './button'
+import Button from './button/index'
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(
